@@ -20,7 +20,7 @@ Aqui estão algumas das habilidades que adquiri ao longo dos anos:
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para gustavo10destroyer@gmail.com. Você também pode me encontrar no Twitter como [@Gustavo10Destroyer](https://twitter.com/Gustavo10Destroyer).
+Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para gustavodestroyeroficial@gmail.com.
 
 ## Estatísticas
 
