@@ -1,6 +1,6 @@
 # Discord
 ### (sempre que eu trocar de Discord vou atualizar aqui, fiquem atentos)
-> thenoobcursed
+> thecursednoob
 
 Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou Gustavo10Destroyer, um desenvolvedor apaixonado que adora criar soluções criativas para problemas complexos. Minhas principais habilidades são Lua, Python e JavaScript, mas também sou proficiente em C++ e PHP.
 
