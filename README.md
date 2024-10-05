@@ -1,8 +1,4 @@
-# Discord
-### (sempre que eu trocar de Discord vou atualizar aqui, fiquem atentos)
-> thecursednoob
-
-Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou Gustavo10Destroyer, um desenvolvedor apaixonado que adora criar soluções criativas para problemas complexos. Minhas principais habilidades são Lua, Python e JavaScript, mas também sou proficiente em C++ e PHP.
+Olá, seja bem-vindo ao meu perfil do GitHub! Eu me chamo Gustavo, um desenvolvedor apaixonado que adora criar soluções criativas para problemas complexos. Minhas principais habilidades são Lua, Python e JavaScript, mas também sou proficiente em C++ e PHP.
 
 ## Sobre mim
 
@@ -13,6 +9,7 @@ Desde que comecei a programar, fiquei fascinado com a capacidade da programaçã
 Aqui estão algumas das habilidades que adquiri ao longo dos anos:
 
 - Lua
+- Rust
 - Python
 - JavaScript
 - C++
