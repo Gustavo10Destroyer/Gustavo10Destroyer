@@ -17,7 +17,7 @@ Aqui estão algumas das habilidades que adquiri ao longo dos anos:
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para gustavodestroyeroficial@gmail.com.
+Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para gustavosantos.sfw@gmail.com.
 
 ## Estatísticas
 
